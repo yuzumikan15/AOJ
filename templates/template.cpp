@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <vector>
-#include <math.h>
+#include <cmath>
 #include <algorithm>
 #include <string>
 #include <queue>
